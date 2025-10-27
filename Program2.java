@@ -12,4 +12,4 @@ class Program2 {
         example.displayVariable();
         System.out.println("Accessing Static Variable from main: " + Program2.staticVariable);
     }
-}
+} 
